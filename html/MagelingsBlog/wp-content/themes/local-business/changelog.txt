@@ -1,0 +1,7 @@
+== Changelog ==
+
+= Theme Name: local-business lite
+
+= Version: 1.0.0 =
+
+* * local-business Theme is created on 10/10/2012.
